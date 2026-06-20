@@ -9,8 +9,8 @@ The dataset is created manually for learning purposes and contains two columns: 
 This project helps in understanding the basics of regression, model training, prediction, and evaluation in machine learning.
 
 Tools Used -
-Python
-Pandas
+Python,
+Pandas,
 Scikit-learn (Linear Regression)
 
 Objective -
