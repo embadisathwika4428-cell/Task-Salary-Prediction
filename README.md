@@ -8,14 +8,13 @@ The dataset is created manually for learning purposes and contains two columns: 
 
 This project helps in understanding the basics of regression, model training, prediction, and evaluation in machine learning.
 
-Tools Used
+Tools Used -
 Python
 Pandas
 Scikit-learn (Linear Regression)
-Objective
 
+Objective -
 To predict salary based on experience using a simple machine learning model.
 
-Output
-
+Output -
 The model successfully predicts salaries close to actual values with low error.
